@@ -13,7 +13,7 @@
 - 💬 Ask me about **C, C++, Java**
 
 - 🧾 **Fun is need in life;
-     But not n-uf(enough) for life**
+     But is not n-uf(enough) for a great life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
