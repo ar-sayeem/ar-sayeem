@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C, C++, Java**
 
-- ⚡ Fun fact **Fun is not n-uf(enough) for life.**
+- ⚡ Fun fact **Fun is not n-uf(enough) for life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
