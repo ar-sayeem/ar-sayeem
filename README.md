@@ -1,5 +1,5 @@
 ![logo](https://github.com/ar-sayeem/ar-sayeem/blob/main/code.gif)
-<h1 align="center">HELLO 👋, I'm Adnan Rahman Sayeem</h1>
+<h1 align="center">Adnan Rahman Sayeem</h1>
 <h3 align="center">A Future Game Developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
