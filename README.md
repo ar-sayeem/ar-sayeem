@@ -1,4 +1,4 @@
-![logo](https://github.com/ar-sayeem/ar-sayeem/blob/main/code.gif)
+![logo]()
 <h1 align="center">Adnan Rahman Sayeem</h1>
 <h3 align="center">A Future Game Developer from Bangladesh</h3>
 
