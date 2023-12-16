@@ -1,19 +1,18 @@
 <!--
 ![logo](https://github.com/ar-sayeem/ar-sayeem/blob/main/LifeisCoding!!.gif) -->
-<h1 align="center">Adnan Rahman Sayeem</h1>
-<h3 align="center">A Future Game Developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center">HELLO 👋, I'm Adnan Rahman Sayeem</h1>
+<h3 align="center">A Future Game Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ar-sayeem" /> </p>
 
-- 🔭 I’m currently working on [**KinteChai.com**](https://www.figma.com/proto/AIxJawWcw6lWRPfA8lrUvD/KinteChai.com?page-id=0%3A1&type=design&node-id=69-2&viewport=-2864%2C568%2C0.79&t=Cd5m123AynFXEnMD-1&scaling=min-zoom&starting-point-node-id=69%3A2&show-proto-sidebar=1&mode=design)
+- 🔭 I’m currently working on [KinteChai.com](https://ar-sayeem.github.io/KinteChai.com)
 
 - 🌱 I’m currently learning **HTML, CSS, Java Script**
 
 - 💬 Ask me about **C, C++, Java**
 
-- 🧾 **Fun is need in life, but is not n-uf(enough) for a great life**
+- ⚡ Fun fact **Fun is not n-uf(enough) for life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
