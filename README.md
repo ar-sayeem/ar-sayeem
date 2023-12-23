@@ -1,4 +1,4 @@
-<!--
+<!-
 ![logo](https://github.com/ar-sayeem/ar-sayeem/blob/main/LifeisCoding!!.gif) 
 
 <h1 align="center">HELLO 👋, I'm Adnan Rahman Sayeem</h1>
