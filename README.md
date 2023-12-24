@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **C, C++, Java**
 
-- 📫 How to reach me **adnan,rahman.sayeem@gmail.com**
-
 - ⚡ Fun fact ****Fun is not n-uf(enough) for life.****
 
 <h3 align="left">Connect with me:</h3>
