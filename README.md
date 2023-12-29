@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Rahman Sayeem</h1>
 <h3 align="center">A Future Game Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ar-sayeem" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ar-sayeem" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ar_sayeem0" target="blank"><img src="https://img.shields.io/twitter/follow/ar_sayeem0?logo=twitter&style=for-the-badge" alt="ar_sayeem0" /></a> </p>
 
