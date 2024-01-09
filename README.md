@@ -44,10 +44,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&hide_border=false&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" alt="ar-sayeem" /></p></br>
 
-## **Activity on GitHub**
-
 <p align="center">
   <a href="https://github.com/ar-sayeem">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&theme=dark&hide_border=false&stroke=f53b3b"/>
+<img title="stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&theme=dark&hide_border=false&stroke=f53b3b"/>
 </a> 
 </p>
