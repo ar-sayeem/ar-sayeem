@@ -17,7 +17,7 @@
 
 ## **What I'm Doing**
 
-- 🔭 Currently working on [***KinteChai.com***](https://ar-sayeem.github.io/KinteChai.com)
+- 🔭 Currently working on [***Kintechai.com***](https://ar-sayeem.github.io/KinteChai.com)
 
 - 🌱 Learning **Python**
 
