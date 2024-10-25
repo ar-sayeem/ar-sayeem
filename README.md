@@ -50,7 +50,8 @@
 
 ## **Languages and Tools**
 
-<p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,discord,eclipse,ai,ps,unity,unreal"> </a></p>
+<p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,eclipse,ai,ps,unity,unreal"> </a></p>
+<!-- OLD: <p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,discord,eclipse,ai,ps,unity,unreal"> </a></p> -->
 
 ## **My Stats**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=151515" alt="ar-sayeem" /></p>
