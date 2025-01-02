@@ -1,9 +1,10 @@
 <!--## **Introduction**-->
 
-<h1 align="center"><b>Hi 👋, I'm Adnan Rahman Sayeem</h1>
-<h3 align="center"><b>A Future Game Developer from Bangladesh</h3></br>
-
-
+<div>
+  <h1><b>Hi 👋, I'm Adnan Rahman Sayeem</b></h1>
+  <h3><b>A Future Game Developer from Bangladesh </b></h3>
+  <p align=right><img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pjcHdxbThkMzRzNTB1aDU5ZzR2bzY2a21zdTRsM3NvYW9uOGVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s31Rm4W3wHpZe/giphy.webp" /></p>
+</div>
 
 ## **Profile Views**
 
@@ -13,16 +14,20 @@
 <p align="left"> <a href="https://twitter.com/ar_sayeem0" target="blank"><img src="https://img.shields.io/twitter/follow/ar_sayeem0?logo=twitter&style=for-the-badge" alt="ar_sayeem0" /></a> </p>
 -->
 
+## 🌟 **What I'm Doing**
 
+- 🔭 **Currently Building:**  
+  [🚀 My Portfolio](https://ar-sayeem.github.io/portfolio/)
 
-## **What I'm Doing**
-- 🔭 Currently building [***My Portfolio***](https://ar-sayeem.github.io/portfolio/)
+- 🛠️ **Working On:**  
+  [🌐 Kintechai.com](https://ar-sayeem.github.io/Kintechai.com)
 
-- 🔭 Currently working on [***Kintechai.com***](https://ar-sayeem.github.io/Kintechai.com)
+- 🌱 **Learning:**  
+  Python 🐍  
 
-- 🌱 Learning **Python**
+- 💬 **Upskilling in:**  
+  C 🖋️, C++ 🚀
 
-- 💬 Upskilling **C, C++**</br></br>
 
 
 
@@ -54,15 +59,16 @@
 <!-- OLD: <p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,discord,eclipse,ai,ps,unity,unreal"> </a></p> -->
 
 ## **My Stats**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=151515" alt="ar-sayeem" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=151515&locale=en&hide_border=false" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&bg_color=151515&hide_border=false" height="170" alt="languages graph" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&hide_border=false&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" alt="ar-sayeem" /></p>
-
-
-
+<!--
 ## **Activity on GitHub**
 
 <p><a href="https://github.com/ar-sayeem">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&"
 alt="ar-sayeem" />
 </a></p>
+-->
