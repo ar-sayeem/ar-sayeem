@@ -58,17 +58,13 @@
 <p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,eclipse,ai,ps,unity,unreal"> </a></p>
 <!-- OLD: <p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,discord,eclipse,ai,ps,unity,unreal"> </a></p> -->
 
-## **My Stats**
+## **Activity & Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=151515&locale=en&hide_border=false" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&bg_color=151515&hide_border=false" height="170" alt="languages graph" />
-</div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=282828&locale=en&hide_border=false" height="170" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=gruvbox&bg_color=282828&hide_border=false" height="170" alt="languages graph" />
 
-<!--
-## **Activity on GitHub**
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=282828&locale=en&hide_border=false" height="180" width="400" alt="ar-sayeem" /></div>
 
-<p><a href="https://github.com/ar-sayeem">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&"
-alt="ar-sayeem" />
-</a></p>
--->
+  <p align=right><img height="100" width="1200" src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" /></p>
