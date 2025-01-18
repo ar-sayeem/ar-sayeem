@@ -30,8 +30,16 @@
   Python 🐍  
 
 - 💬 **Upskilling in:**  
-  C 🖋️, C++ 🚀
+  C 🖋️, C++ 🚀</br></br>
 
+## 📚 **Publication**
+- **Title**: [IDDMSLD: An Image Dataset for Detecting Malabar Spinach Leaf Diseases](https://doi.org/10.1016/j.dib.2025.111293)  
+- **Journal**: *Data in Brief*  
+- **Authors**: Adnan Rahman Sayeem, Jannatul Ferdous Omi, Mehedi Hasan, Mayen Uddin Mojumdar, Narayan Ranjan Chakraborty  
+- **DOI**: [https://doi.org/10.1016/j.dib.2025.111293](https://doi.org/10.1016/j.dib.2025.111293)  
+
+*This research introduces a comprehensive image dataset for detecting diseases in Malabar spinach leaves, aiding advancements in machine learning and plant health analysis.*
+</br></br>
 
 
 <!--
