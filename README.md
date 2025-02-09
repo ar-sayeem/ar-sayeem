@@ -6,9 +6,10 @@
   <p align=right><img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pjcHdxbThkMzRzNTB1aDU5ZzR2bzY2a21zdTRsM3NvYW9uOGVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s31Rm4W3wHpZe/giphy.webp" /></p>
 </div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ar-sayeem)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-rahman-sayeem)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white)](https://github.com/ar-sayeem)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-rahman-sayeem)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adnan.rahman.sayeem@gmail.com)
+[![Orcid](https://img.shields.io/badge/-Orcid-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0403-0617)
 
 ## **Profile Views**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ar-sayeem" /> </p>
