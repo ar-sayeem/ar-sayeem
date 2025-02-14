@@ -75,7 +75,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=282828&locale=en&hide_border=false" height="170"       
   alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=gruvbox&bg_color=282828&hide_border=false" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=gruvbox&bg_color=282828&hide_border=false" height="170" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=282828&locale=en&hide_border=false" height="180"       width="400" alt="ar-sayeem" /></div>
 
   <p align=right><img height="100" width="1200" src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" /></p>
