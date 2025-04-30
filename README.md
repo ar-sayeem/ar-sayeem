@@ -18,34 +18,43 @@
 <!--
 <p align="left"> <a href="https://twitter.com/ar_sayeem0" target="blank"><img src="https://img.shields.io/twitter/follow/ar_sayeem0?logo=twitter&style=for-the-badge" alt="ar_sayeem0" /></a> </p>
 -->
+## 🌟 What I'm Doing
 
-## 🌟 **What I'm Doing**
+- 🔧 **Building:**  
+  [![My Portfolio](https://img.shields.io/badge/-🚀%20My%20Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://ar-sayeem.github.io/portfolio/)  
+  A sleek and responsive personal portfolio showcasing my projects, research, and journey.
 
-- 🔭 **Currently Building:**  
-  [🚀 My Portfolio](https://ar-sayeem.github.io/portfolio/)
+- 🛠️ **Developing:**  
+  [![Kintechai.com](https://img.shields.io/badge/-🌐%20Kintechai.com-FFA500?style=for-the-badge&logo=google-chrome&logoColor=000)](https://ar-sayeem.github.io/Kintechai.com)  
+  A tech-driven platform aiming to deliver innovation and value.
 
-- 🛠️ **Working On:**  
-  [🌐 Kintechai.com](https://ar-sayeem.github.io/Kintechai.com)
+👨‍💻 **Current Internship Tasks – at Future Intern (Remote)** <br>
+**Here is the Machine Learning Track:**
 
-- 🌱 **Learning:**  
-  Python 🐍  
+- ✅ **Task 1: Sales Forecasting for Retail Business** <br> 
+  [![View Task 1](https://img.shields.io/badge/-📂%20FUTURE_ML_01-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem/FUTURE_ML_01)
+  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/ar-sayeem/sales-forecasting-task)
 
-- 💬 **Upskilling in:**  
-  C 🖋️, C++ 🚀</br></br>
+- ✅ **Task 2: Stock Price Prediction Using ML** <br> 
+  [![View Task 2](https://img.shields.io/badge/-📂%20FUTURE_ML_02-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem/FUTURE_ML_02)
+  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/ar-sayeem/stock-price-prediction-task)
 
-<!--
-- 🧠 **Skilled in:**</br>
-  <img src="https://media.giphy.com/media/kjpKQ8wXVVocN5IIyK/giphy.gif?cid=ecf05e47pcn62n3xu1a6h75tj95hqolg4b9ofmvrmtu15xze&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "70">
--->
+- 🔄 **Task 3: Build a Chatbot for Customer Support** *(in progress)* <br> 
+  [![Coming Soon](https://img.shields.io/badge/-🚧%20FUTURE_ML_03%20Coming%20Soon-f39c12?style=for-the-badge&logo=github&logoColor=000)](https://github.com/ar-sayeem/FUTURE_ML_03)
+  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/ar-sayeem/chatbot-task-progress)
 
-## 📚 **Publication**
-- **Title**: [IDDMSLD: An Image Dataset for Detecting Malabar Spinach Leaf Diseases](https://doi.org/10.1016/j.dib.2025.111293)  
-- **Journal**: *Data in Brief*  
-- **Authors**: Adnan Rahman Sayeem, Jannatul Ferdous Omi, Mehedi Hasan, Mayen Uddin Mojumdar, Narayan Ranjan Chakraborty  
-- **DOI**: [https://doi.org/10.1016/j.dib.2025.111293](https://doi.org/10.1016/j.dib.2025.111293)  
+---
 
-*This research introduces a comprehensive image dataset for detecting diseases in Malabar spinach leaves, aiding advancements in machine learning and plant health analysis.*
-</br></br>
+## 📚 Publication
+
+> 📝 **IDDMSLD: An Image Dataset for Detecting Malabar Spinach Leaf Diseases**  
+> 📰 *Published in:* Data in Brief  
+> 👥 *Authors:* Adnan Rahman Sayeem, Jannatul Ferdous Omi, Mehedi Hasan, Mayen Uddin Mojumdar, Narayan Ranjan Chakraborty  
+> 🔗 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.dib.2025.111293-blue?style=flat-square)](https://doi.org/10.1016/j.dib.2025.111293)
+
+🌿 *This paper presents a novel dataset for disease detection in Malabar spinach leaves, contributing to smart agriculture and machine learning research.*
+
+---
 
 
 <!--
