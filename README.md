@@ -10,6 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-rahman-sayeem)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adnan.rahman.sayeem@gmail.com)
 [![Orcid](https://img.shields.io/badge/-Orcid-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0403-0617)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Adnan-Sayeem-2)
 
 ## **Profile Views**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ar-sayeem" /> </p>
