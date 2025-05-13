@@ -41,8 +41,8 @@
   [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adnan-rahman-sayeem_deeplearning-stockprediction-timeseries-activity-7323027993247854592-YOuw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkyt8QB-tcjyOVBr7Wl04wHG03jOsoidz0)
 
 - 🔄 **Task 3: Build a Chatbot for Customer Support** *(in progress)* <br> 
-  [![Coming Soon](https://img.shields.io/badge/-🚧%20FUTURE_ML_03%20Coming%20Soon-f39c12?style=for-the-badge&logo=github&logoColor=000)](https://github.com/ar-sayeem/FUTURE_ML_03)
-  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/ar-sayeem/chatbot-task-progress)
+  [![View Task 3](https://img.shields.io/badge/-📂%20FUTURE_ML_03-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem/FUTURE_ML_03)
+  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adnan-rahman-sayeem_customersupport-chatbot-nlp-activity-7327220879141101568-fJ8X)
 
 ---
 
