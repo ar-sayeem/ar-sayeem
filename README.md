@@ -89,7 +89,7 @@
 ## **Activity & Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&bg_color=282828&hide_border=false" height="180" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&layout=compact&card_width=320&langs_count=8&theme=gruvbox&bg_color=282828&hide_border=false" height="180" width="320" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&layout=compact&card_width=320&langs_count=6&theme=gruvbox&bg_color=282828&hide_border=false" height="180" width="320" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&theme=gruvbox&hide_border=false&background=282828" height="180" width="400" alt="GitHub Streak" />
 </div>
 
