@@ -1,6 +1,8 @@
 <!--## **Introduction**-->
 <div>
-  <p align=right><img height="100" width="1200" src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" /></p>
+  <p align="right">
+  <img src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" style="height: 150px; width: 1200px;" />
+  </p>
   <h1><b>Hi 👋, I'm Adnan Rahman Sayeem</b></h1>
   <h3><b>A Future Game Developer from Bangladesh </b></h3>
   <p align=right><img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pjcHdxbThkMzRzNTB1aDU5ZzR2bzY2a21zdTRsM3NvYW9uOGVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s31Rm4W3wHpZe/giphy.webp" /></p>
@@ -91,4 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=gruvbox&bg_color=282828&hide_border=false" height="170" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&bg_color=282828&locale=en&hide_border=false" height="180"       width="400" alt="ar-sayeem" /></div>
 
-  <p align=right><img height="100" width="1200" src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" /></p>
+  <p align="right">
+  <img src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" style="height: 150px; width: 1200px;" />
+  </p>
