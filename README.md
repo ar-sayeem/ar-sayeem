@@ -23,8 +23,14 @@
 <!--
 <p align="left"> <a href="https://twitter.com/ar_sayeem0" target="blank"><img src="https://img.shields.io/twitter/follow/ar_sayeem0?logo=twitter&style=for-the-badge" alt="ar_sayeem0" /></a> </p>
 -->
+## 🌟 Latest Project
 
-## 🌟 What I'm Doing
+- 🎮 **GLxManager**  
+  [![Visit Website](https://img.shields.io/badge/-🌐%20glxmanager.vercel.app-9b59b6?style=for-the-badge&logo=vercel&logoColor=white)](https://glxmanager.vercel.app/)  
+  **Galaxy Legends Esports Team Management System** — an advanced and fully responsive web application developed to streamline the operations of **PUBG Mobile esports teams**.  
+  It features **secure Firebase Authentication**, **comprehensive player profiles**, **match and earnings management**, and **real-time performance tracking**, empowering team managers with efficiency and professionalism.
+
+---
 
 - 🔧 **Building:**  
   [![My Portfolio](https://img.shields.io/badge/-🚀%20My%20Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://ar-sayeem.github.io/portfolio/)  
@@ -50,6 +56,7 @@
   [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adnan-rahman-sayeem_customersupport-chatbot-nlp-activity-7327220879141101568-fJ8X)
 
 ---
+
 
 ## 📚 Publication
 
