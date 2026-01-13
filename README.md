@@ -37,7 +37,7 @@
   A sleek and responsive personal portfolio showcasing my projects, research, and journey.
 
 - 🛠️ **Developing:**  
-  [![Kintechai.com](https://img.shields.io/badge/-🌐%20Kintechai.com-FFA500?style=for-the-badge&logo=google-chrome&logoColor=000)](https://ar-sayeem.github.io/Kintechai.com)  
+  [![Kintechai.com](https://img.shields.io/badge/-🌐%20Kintechai.com-FFA500?style=for-the-badge&logo=google-chrome&logoColor=000)](https://kintechai.vercel.app/)  
   A tech-driven platform aiming to deliver innovation and value.
 
 👨‍💻 **Current Internship Tasks – at Future Intern (Remote)** <br>
