@@ -33,7 +33,7 @@
 ---
 
 - 🔧 **Building:**  
-  [![My Portfolio](https://img.shields.io/badge/-🚀%20My%20Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://ar-sayeem.github.io/portfolio/)  
+  [![My Portfolio](https://img.shields.io/badge/-🚀%20My%20Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=000)]([https://ar-sayeem.github.io/portfolio/](https://ar-sayeemportfolio.vercel.app/))  
   A sleek and responsive personal portfolio showcasing my projects, research, and journey.
 
 - 🛠️ **Developing:**  
