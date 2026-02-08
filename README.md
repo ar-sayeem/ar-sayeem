@@ -196,18 +196,10 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-sayeem&bg_color=0d1117&color=F85D7F&line=F8D866&point=c9d1d9&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ar-sayeem&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ar-sayeem&theme=nord&hide_border=true&fire=fdd456&ring=FF6B35&currStreakNum=FF6B35&currStreakLabel=81A1C1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -216,7 +208,7 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 
 <div align="center">
   
-![](https://github-trophies.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1)
+![](https://github-trophies.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
