@@ -1,106 +1,268 @@
-<!--## **Introduction**-->
-<div>
-  <p align="right">
-  <img src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" style="height: 150px; width: 1200px;" />
-  </p>
-  <h1><b>Hi 👋, I'm Adnan Rahman Sayeem</b></h1>
-  <h3><b>A Future Game Developer from Bangladesh </b></h3>
-  <p align=right><img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pjcHdxbThkMzRzNTB1aDU5ZzR2bzY2a21zdTRsM3NvYW9uOGVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s31Rm4W3wHpZe/giphy.webp" /></p>
-</div>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white)](https://github.com/ar-sayeem)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-rahman-sayeem)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adnan.rahman.sayeem@gmail.com)
-[![Orcid](https://img.shields.io/badge/-Orcid-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0403-0617)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Adnan-Sayeem-2)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4885ed?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=xsJ3UFoAAAAJ)
-
-
-## **Profile Views**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ar-sayeem" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-sayeem" alt="ar-sayeem" /></a> </p>
-
-<!--
-<p align="left"> <a href="https://twitter.com/ar_sayeem0" target="blank"><img src="https://img.shields.io/twitter/follow/ar_sayeem0?logo=twitter&style=for-the-badge" alt="ar_sayeem0" /></a> </p>
--->
-## 🌟 Latest Project
-
-- 🎮 **GLxManager**  
-  [![Visit Website](https://img.shields.io/badge/-🌐%20glxmanager.vercel.app-9b59b6?style=for-the-badge&logo=vercel&logoColor=white)](https://glxmanager.vercel.app/)  
-  **Galaxy Legends Esports Team Management System** — an advanced and fully responsive web application developed to streamline the operations of **PUBG Mobile esports teams**.  
-  It features **secure Firebase Authentication**, **comprehensive player profiles**, **match and earnings management**, and **real-time performance tracking**, empowering team managers with efficiency and professionalism.
-
----
-
-- 🔧 **Building:**  
-  [![My Portfolio](https://img.shields.io/badge/-🚀%20My%20Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://ar-sayeemportfolio.vercel.app/)  
-  A sleek and responsive personal portfolio showcasing my projects, research, and journey.
-
-- 🛠️ **Developing:**  
-  [![Kintechai.com](https://img.shields.io/badge/-🌐%20Kintechai.com-FFA500?style=for-the-badge&logo=google-chrome&logoColor=000)](https://kintechai.vercel.app/)  
-  A tech-driven platform aiming to deliver innovation and value.
-
-👨‍💻 **Current Internship Tasks – at Future Intern (Remote)** <br>
-**Here is the Machine Learning Track:**
-
-- ✅ **Task 1: Sales Forecasting for Retail Business** <br> 
-  [![View Task 1](https://img.shields.io/badge/-📂%20FUTURE_ML_01-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem/FUTURE_ML_01)
-  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adnan-rahman-sayeem_machinelearning-datascience-salesforecasting-activity-7322686432555282432-Gl8D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkyt8QB-tcjyOVBr7Wl04wHG03jOsoidz0)
-
-- ✅ **Task 2: Stock Price Prediction Using ML** <br> 
-  [![View Task 2](https://img.shields.io/badge/-📂%20FUTURE_ML_02-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem/FUTURE_ML_02)
-  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adnan-rahman-sayeem_deeplearning-stockprediction-timeseries-activity-7323027993247854592-YOuw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkyt8QB-tcjyOVBr7Wl04wHG03jOsoidz0)
-
-- 🔄 **Task 3: Build a Chatbot for Customer Support** <br> 
-  [![View Task 3](https://img.shields.io/badge/-📂%20FUTURE_ML_03-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem/FUTURE_ML_03)
-  [![View LinkedIn Post](https://img.shields.io/badge/-🔗%20LinkedIn%20Post-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/adnan-rahman-sayeem_customersupport-chatbot-nlp-activity-7327220879141101568-fJ8X)
-
----
-
-
-## 📚 Publication
-
-> 📝 **IDDMSLD: An Image Dataset for Detecting Malabar Spinach Leaf Diseases**  
-> 📰 *Published in:* Data in Brief  
-> 👥 *Authors:* Adnan Rahman Sayeem, Jannatul Ferdous Omi, Mehedi Hasan, Mayen Uddin Mojumdar, Narayan Ranjan Chakraborty  
-> 🔗 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.dib.2025.111293-blue?style=flat-square)](https://doi.org/10.1016/j.dib.2025.111293)
-
-🌿 *This paper presents a novel dataset for disease detection in Malabar spinach leaves, contributing to smart agriculture and machine learning research.*
-
----
-
-
-<!--
-## **Connect with me**
-<p align="LEFT">
-<a href="https://linkedin.com/in/adnan-rahman-sayeem" target="blank"><img align="center" src="https://github.com/ar-sayeem/little-storage/blob/main/Images/social/icon/linkedin.png" height="40" width="40" /></a></p>  -->
-
-
-## **Languages and Tools**
-<p align="left"> <a href="https://github.com/ar-sayeem"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,java,figma,git,eclipse,ai,ps,unity,unreal"> </a></p>
-<!--
-<p>
-<img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlkZDh2MnRsbmEzZGVlbHlsa2wwa3J1MTkxdm5uOGUwYTZ1cTJmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="60" height="40">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-<img src="https://github.com/ar-sayeem/little-storage/blob/main/gif/figma_logo.gif" weidth="50" height="50"> figma
-<img src="" width="70">
-<img src="" width="70">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> vs
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"> node
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> git
-<p>
--->
-
-## **Activity & Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&bg_color=282828&hide_border=false" height="180" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sayeem&layout=compact&card_width=320&langs_count=6&theme=gruvbox&bg_color=282828&hide_border=false" height="180" width="320" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-sayeem&theme=gruvbox&hide_border=false&background=282828" height="180" width="400" alt="GitHub Streak" />
+  <h1>Hi 👋, I'm Adnan Rahman Sayeem</h1>
+  <h3>Aspiring Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
+  
+  <p>
+    <em>Building scalable web solutions and exploring intelligent systems</em>
+  </p>
 </div>
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-rahman-sayeem)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.rahman.sayeem@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem)
+  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0403-0617)
+  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=xsJ3UFoAAAAJ)
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Adnan-Sayeem-2)
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20Views&color=0e75b6&style=flat-square)
+  
+</div>
 
-  <p align="right">
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science graduate** passionate about building robust, scalable software solutions. Since my early undergraduate years, I've been actively developing on GitHub—working on diverse projects ranging from problem-solving challenges and coursework to personal initiatives.
+
+My journey has taken me through **Python development**, **machine learning research**, and **data-driven problem solving**. Today, my primary focus is on **software engineering**, with a specialization in **Full-Stack Development**. I thrive on learning new technologies and applying them to create meaningful, real-world applications.
+
+**Current Focus:**
+- 🎯 Full-Stack Web Development (MERN/MEAN Stack)
+- 🔧 Building production-ready web applications
+- 🤖 Exploring ML integration in web platforms
+- 📊 Data-driven software solutions
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 GLxManager • 2025
+**Galaxy Legends Esports Team Management System**
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-00C7B7?style=for-the-badge)](https://glxmanager.vercel.app/)
+
+</div>
+
+A comprehensive **full-stack web application** designed to streamline esports team management with real-time analytics and player tracking.
+
+**Key Features:**
+- 🔐 Secure Firebase Authentication
+- 👥 Dynamic Player Management System
+- 📊 Real-time Statistics Dashboard
+- 📈 Match History & Performance Analytics
+- 💰 Team Earnings Tracker
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Firebase Authentication` `Cloud Firestore`
+
+---
+
+### 🛒 Kintechai • 2023
+**Modern Grocery Store Platform**
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-FF6B6B?style=for-the-badge)](https://kintechai.vercel.app/)
+
+</div>
+
+A sleek, **responsive frontend solution** for a grocery store platform, emphasizing modern UI/UX principles and seamless user experience.
+
+**Key Features:**
+- 📱 Mobile-First Responsive Design
+- 🎨 Pixel-Perfect Figma Implementation
+- ⚡ Fast & Lightweight Performance
+- 🛍️ Intuitive Shopping Interface
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Figma`
+
+---
+
+### 🧠 MindCure (Android App)
+**Mental Wellness Mobile Application**
+
+<div align="center">
+
+[![In Development](https://img.shields.io/badge/🚧_Status-In_Development-FFA500?style=for-the-badge)](https://github.com/ar-sayeem)
+
+</div>
+
+A **cross-platform mobile application** focused on mental wellness, providing comprehensive tools for mental health management and community support.
+
+**Key Features:**
+- 📝 Mental Health Task Tracking
+- 👥 Peer Support Community
+- 🗓️ Counselor Appointment System
+- 📊 Progress Monitoring & Analytics
+- 🔔 Wellness Reminders
+
+**Tech Stack:** `Flutter (Dart)` `Firebase Authentication` `Cloud Firestore`
+
+---
+
+## 💼 Professional Experience
+
+### Machine Learning Intern (Remote)
+**Future Intern** • *1 Month*
+
+Developed and deployed machine learning models addressing real-world business challenges:
+
+| Project | Description | Repository | Post |
+|---------|-------------|------------|------|
+| 📊 **Sales Forecasting** | Time-series forecasting model for retail business revenue prediction | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ar-sayeem/FUTURE_ML_01) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/adnan-rahman-sayeem_machinelearning-datascience-salesforecasting-activity-7322686432555282432-Gl8D) |
+| 📈 **Stock Price Prediction** | Deep learning model using LSTM for stock market forecasting | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ar-sayeem/FUTURE_ML_02) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/adnan-rahman-sayeem_deeplearning-stockprediction-timeseries-activity-7323027993247854592-YOuw) |
+| 💬 **Customer Support Chatbot** | NLP-powered chatbot for automated customer service | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ar-sayeem/FUTURE_ML_03) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/adnan-rahman-sayeem_customersupport-chatbot-nlp-activity-7327220879141101568-fJ8X) |
+
+---
+
+## 📚 Research Publication
+
+**IDDMSLD: An Image Dataset for Detecting Malabar Spinach Leaf Diseases**
+
+A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDMSLD: An image dataset for detecting Malabar spinach leaf diseases,"* **Data in Brief**, vol. 58, p. 111293, Feb. 2025.
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.dib.2025.111293-blue?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1016/j.dib.2025.111293)
+
+> This peer-reviewed dataset contributes to smart agriculture research by enabling machine learning-based disease detection in agricultural produce.
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center" style="width: 100%;">
+<table style="width: 100%;">
+<tr>
+<td width="400px" valign="top" align="center">
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,html,css&theme=dark&perline=7" height="40" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=2" height="40" />
+</p>
+
+</td>
+<td width="400px" valign="top" align="center">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark&perline=4" height="40" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark&perline=3" height="40" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark&perline=4" height="40" />
+</p>
+
+</td>
+<td width="300px" valign="top" align="center">
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=2" height="40" />
+</p>
+
+### Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,premiere&theme=dark&perline=2" height="40" />
+  <img src="https://raw.githubusercontent.com/ar-sayeem/little-storage/b8ab3d0b44efd33a6c13230304919033b6703517/icons/icons8-canva-50.png" height="40"/>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ar-sayeem&layout=compact&hide_border=true&title_color=F85D7F&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-sayeem&bg_color=0d1117&color=F85D7F&line=F8D866&point=c9d1d9&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ar-sayeem&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+![](https://github-trophies.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><strong>React.js</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><strong>Express.js</strong>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Full-Stack Development (MERN Stack)** • **TypeScript** • **System Design** • **Cloud Services** • **CI/CD**
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
+  
+  **Thank you for visiting! Let's connect and build something amazing together.** ✨
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF6B6B?style=for-the-badge)](https://ar-sayeemportfolio.vercel.app/)
+
   <img src="https://github.com/ar-sayeem/ar-sayeem/blob/main/rainbow-line.gif" style="height: 150px; width: 1200px;" />
-  </p>
+
+  
+</div>
