@@ -191,8 +191,7 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ar-sayeem&layout=compact&hide_border=true&title_color=F85D7F&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&hide_border=true&title_color=81A1C1&icon_color=88C0D0&text_color=D8DEE9&bg_color=2E3440&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
