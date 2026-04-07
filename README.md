@@ -133,20 +133,19 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 ---
 
 ## 🛠️ Technical Skills
-
-<div align="center" style="width: 100%;">
-<table style="width: 100%;">
+<div align="center">
+<table>
 <tr>
 <td width="400px" valign="top" align="center">
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,html,css&theme=dark&perline=7" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,html,css&theme=dark&perline=7" />
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=2" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=2" />
 </p>
 
 </td>
@@ -154,17 +153,17 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark&perline=4" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark&perline=4" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark&perline=3" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark&perline=3" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark&perline=4" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark&perline=4" />
 </p>
 
 </td>
@@ -172,13 +171,13 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=2" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=2" />
 </p>
 
 ### Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,premiere&theme=dark&perline=2" height="40" />
-  <img src="https://raw.githubusercontent.com/ar-sayeem/little-storage/b8ab3d0b44efd33a6c13230304919033b6703517/icons/icons8-canva-50.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma,premiere&theme=dark&perline=2" />
+  <img src="https://raw.githubusercontent.com/ar-sayeem/little-storage/b8ab3d0b44efd33a6c13230304919033b6703517/icons/icons8-canva-50.png" height="48"/>
 </p>
 
 </td>
@@ -189,7 +188,6 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&hide_border=true&title_color=81A1C1&icon_color=88C0D0&text_color=D8DEE9&bg_color=2E3440&include_all_commits=true" alt="GitHub Stats" />
 </div>
@@ -204,11 +202,8 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 ---
 
 ## 🏆 GitHub Achievements
-
 <div align="center">
-  
-![](https://github-trophies.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1)
-
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
