@@ -197,9 +197,8 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 ---
 
 ## 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ar-sayeem&theme=nord&hide_border=true&fire=fdd456&ring=FF6B35&currStreakNum=FF6B35&currStreakLabel=81A1C1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ar-sayeem&theme=nord&hide_border=true&fire=fdd456&ring=FF6B35&currStreakNum=FF6B35&currStreakLabel=81A1C1" alt="GitHub Streak" />
 </div>
 
 ---
