@@ -88,7 +88,7 @@ A sleek, **responsive frontend solution** for a grocery store platform, emphasiz
 
 <div align="center">
 
-[![In Development](https://img.shields.io/badge/🚧_Status-In_Development-FFA500?style=for-the-badge)](https://github.com/ar-sayeem)
+[![In Development](https://img.shields.io/badge/🚧_Status-In_Development-FFA500?style=for-the-badge)](https://github.com/ar-sayeem/MindCure-App)
 
 </div>
 
