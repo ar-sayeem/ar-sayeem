@@ -14,7 +14,8 @@
   <tr>
     <td><b>🌐 Social</b></td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <!-- <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+      <a href="https://www.linkedin.com/in/yourprofile"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
       <a href="mailto:adnan.rahman.sayeem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </td>
   </tr>
