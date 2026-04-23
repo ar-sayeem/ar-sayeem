@@ -7,19 +7,41 @@
   </p>
 </div>
 
+---
+
+### 👤 Profiles
+<table>
+  <tr>
+    <td><b>🌐 Social</b></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:adnan.rahman.sayeem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>📚 Research</b></td>
+    <td align="center">
+      <a href="https://scholar.google.com/citations?hl=en&user=xsJ3UFoAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+      <a href="https://www.researchgate.net/profile/Adnan-Sayeem-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+      <a href="https://orcid.org/0009-0008-0403-0617"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>💻 Coding Platforms</b></td>
+    <td align="center">
+      <a href="https://github.com/ar-sayeem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://leetcode.com/u/adnan31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+      <a href="https://judge.beecrowd.com/en/profile/695685"><img src="https://img.shields.io/badge/Beecrowd-F5D000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAyNCI+CiAgPCEtLSBGaXJzdCBoZXhhZ29uIC0tPgogIDxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzVFMUQ3MiIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMTIgMSBMMjEuNjYgNi41IEwyMS42NiAxNy41IEwxMiAyMyBMMi4zNCAxNy41IEwyLjM0IDYuNSBaIi8+CiAgPCEtLSBTZWNvbmQgaGV4YWdvbiBvdmVybGFwcGluZyBoYWxmIG9mIGZpcnN0IC0tPgogIDxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzVFMUQ3MiIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjIgMSBMMzEuNjYgNi41IEwzMS42NiAxNy41IEwyMiAyMyBMMTIuMzQgMTcuNSBMMTIuMzQgNi41IFoiLz4KPC9zdmc+Cg==&logoColor=5E1D72"/></a>
+      <a href="https://codeforces.com/profile/Adnan31"><img src="https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPCEtLSBMZWZ0IGJhciAtIFllbGxvdyAtLT4KICA8cmVjdCB4PSIyIiB5PSIxMCIgd2lkdGg9IjUiIGhlaWdodD0iMTIiIGZpbGw9IiNGRkNDMDAiLz4KICA8IS0tIE1pZGRsZSBiYXIgLSBCbHVlIC0tPgogIDxyZWN0IHg9IjkiIHk9IjQiIHdpZHRoPSI1IiBoZWlnaHQ9IjE4IiBmaWxsPSIjMUY4QUNCIi8+CiAgPCEtLSBSaWdodCBiYXIgLSBSZWQgLS0+CiAgPHJlY3QgeD0iMTYiIHk9IjciIHdpZHRoPSI1IiBoZWlnaHQ9IjE1IiBmaWxsPSIjRTg0NDQ0Ii8+Cjwvc3ZnPgo="/></a>
+    </td>
+  </tr>
+
+</table>
+
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-rahman-sayeem)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.rahman.sayeem@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-sayeem)
-  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0403-0617)
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=xsJ3UFoAAAAJ)
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Adnan-Sayeem-2)
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20Views&color=0e75b6&style=flat-square)
-  
+  <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </div>
 
 ---
@@ -200,10 +222,16 @@ A. R. Sayeem, J. F. Omi, M. Hasan, M. U. Mojumdar, and N. R. Chakraborty, *"IDDM
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+-->
+
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
