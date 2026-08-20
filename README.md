@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
   <a href="mailto:adnan.rahman.sayeem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://ar-sayeemportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ar-sayeem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=xsJ3UFoAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ar-sayeem&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
@@ -149,7 +149,7 @@ CS graduate focused on **Full-Stack Development** (MERN/MEAN) and **ML integrati
 <p align="center">
   <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adnan.rahman.sayeem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://ar-sayeemportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ar-sayeem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
