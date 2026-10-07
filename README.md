@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1641e1e6-addb-4ad1-99c6-1353cc07e42c" /><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Adnan%20Rahman%20Sayeem&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=60&descColor=a8b2d8" />
 </p>
 
@@ -93,18 +93,13 @@ CS graduate focused on **Full-Stack Development** (MERN/MEAN) and **ML integrati
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sayeem&show_icons=true&count_private=true&hide_border=true&title_color=81A1C1&icon_color=88C0D0&text_color=D8DEE9&bg_color=2E3440&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ar-sayeem&theme=nord&hide_border=true&fire=fdd456&ring=FF6B35&currStreakNum=FF6B35&currStreakLabel=81A1C1" />
-</p> -->
-
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/nord_dark/3-stats.svg" />
-  <img width="49%" src="./profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-  <img width="49%" src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
 </p>
 
 <p align="center">
