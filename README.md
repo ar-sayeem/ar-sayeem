@@ -235,5 +235,5 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 </p>
 
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:1a1b26&height=120&section=footer&text=Thanks+for+visiting!&fontSize=18&fontColor=c0caf5&fontAlignY=65" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/output/github-snake-dark.svg" />
 </p>
