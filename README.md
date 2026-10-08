@@ -1,20 +1,21 @@
 <p align="center">
-  <img alt="Adnan Rahman Sayeem" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:3d59a1&height=200&section=header&text=Adnan%20Rahman%20Sayeem&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=CS%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20MSc%20Data%20Science&descSize=16&descAlignY=60&descColor=7aa2f7" />
+  <img alt="Adnan Rahman Sayeem" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b26,100:3d59a1&height=220&section=header&text=Adnan%20Rahman%20Sayeem&fontSize=44&fontColor=c0caf5&fontAlignY=40&desc=CS%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20MSc%20Data%20Science&descSize=16&descAlignY=62&descColor=7aa2f7&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Applying+machine+learning+to+real+problems;Supporting+ICT+operations+in+healthcare;Published+researcher+%7C+Open+to+opportunities" />
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=30&lines=Building+full-stack+web+applications;Applying+ML+to+real+problems;Supporting+ICT+operations+in+healthcare;Open+to+internships+and+junior+roles" />
 </p>
 
 <p align="center">
   <a href="https://ar-sayeem.vercel.app/"><img alt="View my portfolio" src="https://img.shields.io/badge/%F0%9F%9A%80_VIEW_MY_PORTFOLIO-ar--sayeem.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26" height="48"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ar-sayeem/ar-sayeem/raw/main/Resume_Adnan_Rahman_Sayeem.pdf"><img alt="Download my resume" src="https://img.shields.io/badge/%F0%9F%93%84_DOWNLOAD_RESUME-PDF-bb9af7?style=for-the-badge&logoColor=1a1b26&labelColor=1a1b26" height="48"/></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white"/></a>
   <a href="mailto:adnan.rahman.sayeem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=xsJ3UFoAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://github.com/ar-sayeem/ar-sayeem/blob/main/Resume_Adnan_Rahman_Sayeem.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-bb9af7?style=flat-square&logo=readme&logoColor=1a1b26"/></a>
 </p>
 
 ---
@@ -33,6 +34,7 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 - 🎓 **MSc in CSE (Data Science)** at Daffodil International University
 - 📄 **Published** in *Data in Brief* (Elsevier, 2025) as first author
 - 💼 **Open to** internships and junior roles in software development, data science and IT systems
+- 📄 **Resume:** [Download my latest resume (PDF)](https://github.com/ar-sayeem/ar-sayeem/raw/main/Resume_Adnan_Rahman_Sayeem.pdf)
 
 ---
 
@@ -198,7 +200,7 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 
 ## 🧩 Problem Solving
 
-<p>
+<p align="center">
   <a href="https://leetcode.com/u/adnan31/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://judge.beecrowd.com/en/profile/695685"><img alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-Top_8%25_%7C_70%2B_solved-3d59a1?style=for-the-badge"/></a>
   <a href="https://vjudge.net/user/Adnan31"><img alt="VJudge" src="https://img.shields.io/badge/VJudge-65%2B_solved-24283b?style=for-the-badge"/></a>
@@ -229,6 +231,8 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 <p align="center">
   <b>Open to opportunities. Let's connect!</b><br/><br/>
   <a href="https://ar-sayeem.vercel.app/"><img alt="View my portfolio" src="https://img.shields.io/badge/%F0%9F%9A%80_VIEW_MY_PORTFOLIO-ar--sayeem.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26" height="48"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ar-sayeem/ar-sayeem/raw/main/Resume_Adnan_Rahman_Sayeem.pdf"><img alt="Download my resume" src="https://img.shields.io/badge/%F0%9F%93%84_DOWNLOAD_RESUME-PDF-bb9af7?style=for-the-badge&logoColor=1a1b26&labelColor=1a1b26" height="48"/></a>
   <br/><br/>
   <a href="https://www.linkedin.com/in/adnan-rahman-sayeem"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
   <a href="mailto:adnan.rahman.sayeem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
