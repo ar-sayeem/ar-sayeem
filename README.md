@@ -93,8 +93,6 @@ CS graduate focused on **Full-Stack Development** (MERN/MEAN) and **ML integrati
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
