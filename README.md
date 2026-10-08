@@ -93,17 +93,29 @@ CS graduate focused on **Full-Stack Development** (MERN/MEAN) and **ML integrati
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+  <img src="https://streak-stats.demolab.com/?user=ar-sayeem&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ar-sayeem&theme=nord&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ar-sayeem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
