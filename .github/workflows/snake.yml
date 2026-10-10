@@ -1,22 +1,32 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#F4C430&color_dots=#161b22,#7f1d1d,#991b1b,#E63946,#F4C430
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-snake-dark.svg?color_snake=#E63946&color_dots=#161b22,#14532d,#15803d,#22c55e,#86efac
+
+      - name: Push to output branch
+        run: |
+          cd dist
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Generate snake"
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git push -f origin output
