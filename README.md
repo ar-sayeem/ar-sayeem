@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img alt="Bangladesh flag" src="https://flagcdn.com/w40/bd.png" width="28" />
 
 I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across **full-stack web development**, **mobile apps (Flutter)**, **machine learning** and **IT systems support**. I'm currently supporting ICT operations at a hospital while pursuing an MSc in Data Science. I've been active on GitHub since my first year of undergrad, growing from coursework and problem-solving to deployed projects and a peer-reviewed publication.
 
@@ -235,4 +235,8 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 
 <p align="center">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/output/github-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ in Bangladesh</sub> <img alt="Bangladesh flag" src="https://flagcdn.com/w40/bd.png" width="20" />
 </p>
