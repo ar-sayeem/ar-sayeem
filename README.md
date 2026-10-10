@@ -111,33 +111,27 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 ---
 
 ## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img alt="Python, C, C++, JavaScript, Dart" src="https://skillicons.dev/icons?i=py,c,cpp,js,dart&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Web &amp; Mobile</b></td>
+    <td><img alt="HTML, CSS, React, Tailwind, Django, Flutter" src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,flutter&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; ML</b></td>
+    <td><img alt="PostgreSQL, Firebase, Scikit-learn" src="https://skillicons.dev/icons?i=postgres,firebase,sklearn&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img alt="Git, GitHub, VS Code, Vercel" src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <b>Languages</b><br/>
-  <img alt="Languages" src="https://skillicons.dev/icons?i=py,c,cpp,js,dart&theme=dark" />
-</p>
-<p align="center">
-  <b>Web & Mobile</b><br/>
-  <img alt="Web and mobile" src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,flutter&theme=dark" />
-</p>
-<p align="center">
-  <b>Database</b><br/>
-  <img alt="Database" src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-</p>
-<p align="center">
-  <b>Data & ML</b><br/>
-  <img alt="Data and ML" src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib&theme=dark" />
-</p>
-<p align="center">
-  <b>Tools</b><br/>
-  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-</p>
-<p align="center">
-  <b>IT & Systems</b><br/>
-  <img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-24283b?style=flat-square"/>
-  <img alt="EMR Systems" src="https://img.shields.io/badge/EMR_Systems-24283b?style=flat-square"/>
-  <img alt="Network Troubleshooting" src="https://img.shields.io/badge/Network_Troubleshooting-24283b?style=flat-square"/>
-  <img alt="Hardware Support" src="https://img.shields.io/badge/Hardware_Support-24283b?style=flat-square"/>
+  <sub><b>IT &amp; Systems:</b> Active Directory · EMR Systems · Network Troubleshooting · Hardware Support</sub>
 </p>
 
 ---
