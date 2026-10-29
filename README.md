@@ -137,15 +137,23 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 
 ---
 
+## 👤 GitHub Profile Overview
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="GitHub Profile Details" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img alt="GitHub stats" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/gruvbox/3-stats.svg" width="100%" />
+      <img alt="GitHub stats" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/2077/3-stats.svg" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img alt="Top languages by commit" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" width="100%" />
+      <img alt="Top languages by commit" src="https://raw.githubusercontent.com/ar-sayeem/ar-sayeem/main/profile-summary-card-output/2077/2-most-commit-language.svg" width="100%" />
     </td>
   </tr>
 </table>
@@ -153,6 +161,7 @@ I'm a Computer Science graduate (BSc CGPA **3.73/4.00**) with experience across 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ar-sayeem&background=0D1117&ring=E63946&fire=F4C430&currStreakNum=F4C430&currStreakLabel=E63946&sideNums=2ECC71&sideLabels=2ECC71&dates=9CA3AF&hide_border=true" width="70%" />
 </p>
+
 
 ---
 
